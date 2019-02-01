@@ -1,0 +1,27 @@
+{
+  "name": "bitcore",
+  "main": "browser/bundle.js",
+  "version": "0.1.35",
+  "homepage": "https://github.com/energyparty/energycore",
+  "authors": [
+    "Peter (<https://github.com/coin1hub>)",
+    "Ryan X. Charles (<ryan@bitpay.com>)"
+  ],
+  "description": "A bitcore fork for EnergyCoin",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "energycoin",
+    "energycore",
+    "enrg",
+    "satoshi"
+  ],
+  "license": "AGPL-3.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "tests"
+  ]
+}
